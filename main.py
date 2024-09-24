@@ -1,2 +1,2 @@
-print('Hello, Nata!')
+print('Hello, Natalya!')
 print('клон из гитхаб в гит')
