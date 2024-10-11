@@ -8,4 +8,5 @@ print('succesfully test')
 # 22071b74033c98a1bfb4ee7bec00bd1aa5c59856
 print('Заливаем с awesome в master')
 print('Пуш с аргументами')
+print('git push origin awesome-branch')
 print('git push origin main')
